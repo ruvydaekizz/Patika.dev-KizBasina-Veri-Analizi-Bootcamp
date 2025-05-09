@@ -1,5 +1,7 @@
 Bu dosya patika.dev tarafından tanımlanan "Veri Yapıları ve Algoritmalar" dersinin Insertion Sort ödevinin tamamlanmış halini içermektedir.
 
+<br>
+
 Proje 1 - Insertion Sort 
 [22,27,16,2,18,6]
 
@@ -18,6 +20,8 @@ Yanıt:
 
 [2,6,16,18,22,27]
 
+<br>
+
 2. Big-O gösterimini yazınız.
 
 Yanıt: O(n²)
@@ -25,6 +29,8 @@ Yanıt: O(n²)
 Hatırlatma: Time Complexity: Average case: Aradığımız sayının ortada olması,
 Worst case: Aradığımız sayının sonda olması, 
 Best case: Aradığımız sayının dizinin en başında olması.
+
+<br>
 
 3. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
    
