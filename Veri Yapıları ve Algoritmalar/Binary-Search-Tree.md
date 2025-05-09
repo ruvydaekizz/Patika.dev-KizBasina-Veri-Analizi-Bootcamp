@@ -26,4 +26,4 @@ Root 7'dir.
 
 7'nin sağı → 8
 
-    - 8'in sağı → 9
+      - 8'in sağı → 9
