@@ -1,5 +1,6 @@
 Bu dosya patika.dev tarafından tanımlanan "Veri Yapıları ve Algoritmalar" dersinin Binary Search Tree ödevinin tamamlanmış halini içermektedir.
 
+<br>
 
 Proje 3 - Binary Search Tree
 
@@ -7,6 +8,7 @@ Proje 3 - Binary Search Tree
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
+<br>
 
 Root 7'dir.
 
