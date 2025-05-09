@@ -27,6 +27,7 @@ Worst case: Aradığımız sayının sonda olması,
 Best case: Aradığımız sayının dizinin en başında olması.
 
 3. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+   
 Yanıt: Avarage Case
 
 [2,3,5,8,7,9,4,15,6]
