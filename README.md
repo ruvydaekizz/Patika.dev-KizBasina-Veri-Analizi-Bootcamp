@@ -1,4 +1,4 @@
-# Patika.dev - Kız Başına Veri Analizi Bootcamp
+# Patika.dev - Kız Başına Veri Analizi Bootcamp 
 
 Bu repo, Patika.dev & Kız Başına tarafından düzenlenen **Veri Analizi Bootcamp** sürecinde gerçekleştirdiğim tüm ödevleri, projeleri ve final case çalışmalarını içermektedir.
 
